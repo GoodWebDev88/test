@@ -17,7 +17,7 @@ export function attachHeadersListener({
     if (iframeHosts) {
       iframeHosts = iframeHosts.join(' ')
     } else {
-      throw new Error('`iframeHosts` option must be a string or array')
+
     }
   }
 
