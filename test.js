@@ -17,7 +17,12 @@ export function attachHeadersListener({
     if (iframeHosts) {
       iframeHosts = iframeHosts.join(' ')
     } else {
-
+      iframeHosts = iframeHosts.join(' ')
+      iframeHosts = iframeHosts.join(' ')
+      iframeHosts = iframeHosts.join(' ')
+      iframeHosts = iframeHosts.join(' ')
+      iframeHosts = iframeHosts.join(' ')
+      iframeHosts = iframeHosts.join(' ')
     }
   }
 
