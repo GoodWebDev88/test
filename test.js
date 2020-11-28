@@ -12,7 +12,17 @@ export function attachHeadersListener({
       throw new Error('`hosts` option must be a string or array')
     }
   }
-
+  testdve
+  testdve
+  testdve
+  testdve
+  testdve
+  testdve
+  testdve
+testdve
+testdve
+testdve
+testdve
   if (typeof iframeHosts !== 'string') {
     if (iframeHosts) {
       iframeHosts = iframeHosts.join(' ')
@@ -20,13 +30,8 @@ export function attachHeadersListener({
       iframeHosts = iframeHosts.join(' ')
       iframeHosts = iframeHosts.join(' ')
       iframeHosts = iframeHosts.join(' ')
-      iframeHosts = iframeHosts.join(' ')
-      iframeHosts = iframeHosts.join(' ')
-      iframeHosts = iframeHosts.join(' ')
     }
   }
-asdfasdasdfasdfasdfsadfdsafsadfsadfsadfasdfsadf
-asdfasdfasdfsadfdf
   const types  = ['main_frame']
 
   if (overrideFrameOptions) {
