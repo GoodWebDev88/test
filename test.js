@@ -12,17 +12,10 @@ export function attachHeadersListener({
       throw new Error('`hosts` option must be a string or array')
     }
   }
-  testdve
-  testdve
-  testdve
-  testdve
-  testdve
-  testdve
-  testdve
-testdve
-testdve
-testdve
-testdve
+sadfsdafsadfsadf
+qwerwqerwqerqwer
+qwerwqerqwerqwer
+qwerqwerwqerqwer
   if (typeof iframeHosts !== 'string') {
     if (iframeHosts) {
       iframeHosts = iframeHosts.join(' ')
